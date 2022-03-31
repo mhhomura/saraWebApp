@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="20.127" height="25.704" viewBox="0 0 20.127 25.704">
+  <g id="Type_record_audio" data-name="Type record audio" transform="translate(22415.167 15117.358)">
+    <path id="microphone" d="M35.126,26.354a10.072,10.072,0,0,1-8.386,9.912v1.815a1.677,1.677,0,1,1-3.354,0V36.267A10.072,10.072,0,0,1,15,26.354V24.677a1.677,1.677,0,1,1,3.354,0v1.677a6.709,6.709,0,1,0,13.417,0V24.677a1.677,1.677,0,1,1,3.354,0Z" transform="translate(-22430.168 -15131.413)" fill="#bccde3"/>
+    <path id="microphone-2" data-name="microphone" d="M20,19.473a4.472,4.472,0,1,1,8.945,0V27.3A4.472,4.472,0,1,1,20,27.3Zm4.472,14.536Z" transform="translate(-22429.578 -15132.358)" fill="#a5b9d5"/>
+  </g>
+</svg>

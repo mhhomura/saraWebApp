@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="29" height="29" viewBox="0 0 29 29">
+  <g id="Help_Active_-_Hover" data-name="Help | Active - Hover" transform="translate(0 -0.281)">
+    <g id="Elipse_278" data-name="Elipse 278" transform="translate(0 0.281)" fill="#fff" stroke="#6fb0ff" stroke-width="1">
+      <circle cx="14.5" cy="14.5" r="14.5" stroke="none"/>
+      <circle cx="14.5" cy="14.5" r="14" fill="none"/>
+    </g>
+    <circle id="Elipse_279" data-name="Elipse 279" cx="11.5" cy="11.5" r="11.5" transform="translate(3 3.281)" fill="#0f7bff"/>
+    <path id="Exclusão_2" data-name="Exclusão 2" d="M2.436,11.832a1.355,1.355,0,0,1-1.026-.441,1.636,1.636,0,0,1-.391-1.1,1.428,1.428,0,1,1,2.846,0A1.426,1.426,0,0,1,2.436,11.832Zm1.111-3.9H1.428L1.413,7.49a3.828,3.828,0,0,1,.938-2.648,3.356,3.356,0,0,0,.927-1.787c0-.641-.414-1-1.165-1.018A2.864,2.864,0,0,0,.54,2.549L0,.7A5.213,5.213,0,0,1,2.654,0,3.267,3.267,0,0,1,4.978.8a2.531,2.531,0,0,1,.748,1.852A4.225,4.225,0,0,1,4.418,5.428l-.06.07a3.106,3.106,0,0,0-.812,2.125V7.93Z" transform="translate(11.296 8.829)" fill="#fff"/>
+  </g>
+</svg>

@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="22.168" height="22.17" viewBox="0 0 22.168 22.17">
+  <g id="Clock" transform="translate(-1.949 -2)">
+    <path id="Caminho_507" data-name="Caminho 507" d="M13,2A11,11,0,1,0,24,13,11,11,0,0,0,13,2Z" transform="translate(0 0)" fill="#d5e9fd" opacity="0.323"/>
+    <path id="Caminho_509" data-name="Caminho 509" d="M13.073,2a11.084,11.084,0,1,0,11.1,11.084A11.079,11.079,0,0,0,13.073,2Zm.011,19.951a8.867,8.867,0,1,1,8.867-8.867A8.865,8.865,0,0,1,13.084,21.951ZM12.84,7.542h-.067a.8.8,0,0,0-.8.8v5.232a1.1,1.1,0,0,0,.543.953l4.6,2.76a.793.793,0,1,0,.809-1.363l-4.29-2.549V8.34a.8.8,0,0,0-.8-.8Z" transform="translate(-0.051 0.002)" fill="#0080fc" opacity="0.998"/>
+  </g>
+</svg>
